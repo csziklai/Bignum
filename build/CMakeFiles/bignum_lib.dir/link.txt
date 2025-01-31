@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbignum_lib.a CMakeFiles/bignum_lib.dir/Bignum.cpp.o
+/usr/bin/ranlib libbignum_lib.a

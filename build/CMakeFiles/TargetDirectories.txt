@@ -1,0 +1,4 @@
+/home/cns58/cs4414/hw4/build/CMakeFiles/bignum_lib.dir
+/home/cns58/cs4414/hw4/build/CMakeFiles/bignum.dir
+/home/cns58/cs4414/hw4/build/CMakeFiles/edit_cache.dir
+/home/cns58/cs4414/hw4/build/CMakeFiles/rebuild_cache.dir

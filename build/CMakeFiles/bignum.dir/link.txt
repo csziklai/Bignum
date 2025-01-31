@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 CMakeFiles/bignum.dir/main.cpp.o -o bignum  libbignum_lib.a 
